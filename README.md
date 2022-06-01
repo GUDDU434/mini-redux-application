@@ -2,6 +2,9 @@
 This is mini application of react, redux, middleware and and routing. Basically its a bundle of all application of all these things.
 <br/>
 Netlitfly link: <a href="https://chimerical-boba-df69d1.netlify.app/">Demo</a>
+## ScreenShots
+![image](https://user-images.githubusercontent.com/99042645/171352670-e7eb592a-73bf-4bca-97ac-0d4c1e60bbc1.png)
+
 
 ## Source code
 To run this project in devlopment mode you can download it or can fork this repogetory.
@@ -13,6 +16,7 @@ In the project directory, you can run:
 <br/>
 ## `npm install`
 <br/>
+After that just do this
 
 ## `npm start`
 <br/>
